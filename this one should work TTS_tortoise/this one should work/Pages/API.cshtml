@@ -1,0 +1,85 @@
+﻿@page
+@model this_one_should_work.Pages.APIModel
+@{
+}
+<div class="container">
+    <form method="POST">
+
+        <label for="API">Enter Server Base Address:</label>
+        <input type="text" id="API" name="API" />
+        <p>EX: https://ad155c51426719c8d3.gradio.live (This one doesnt work)</p>
+        <br />
+
+        @if (!Model.hasData)
+        {
+            <label for="promptText">Enter your text:</label>
+        }
+        else
+        {
+            <label for="promptText">Create Another:</label>
+        }
+
+        <input type="text" id="promptText" name="promptText">
+
+        <label for="voice">Select a voice:</label>
+        <select id="voice" name="voice" >
+            <option value="Farhan">Farhan</option>
+            <option value="Mitansh">Mitansh</option>
+            <option value="Akshay">Akshay</option>
+            <option value="AkshayHin">AkshayHin</option>
+            <option value="ayushman">Ayushman</option>
+            <!-- Add more options as needed -->
+        </select>
+        <br />
+
+        <input type="submit" value="Submit">
+
+        <br />
+        <p> # changing voices will slow down generation as the voice model has to be loaded before generation </p>
+    </form>
+</div>
+<br>
+@* <br />
+<div>
+    @if (Model.loadingStatus) //TRIED TO IMPLEMENT LOADING ICON
+    {
+        <h1>LOADING</h1>
+        <p>may take a while.
+            30 SEC: 1 line (about 15 words)
+
+            # for faster generation use smaller prompts for lower server load
+        </p>
+    }
+</div>
+<br /> *@
+<br>
+<div>
+    @if (Model.unknownError)
+    {
+        <div>
+            <h3>Server Error = @Model.Status</h3>
+        </div>
+    }
+    else if (Model.hasData)
+    {
+        @* <h4>Output of API is:</h4> //TESTING MEASUREMENTS
+        <br>
+        <p>@Model.message</p>
+        <br>
+        <h5>Status: @Model.Status</h5>
+        <br />
+        <p>
+            Output Location: @Model.test
+        </p>
+        <br> *@
+        <audio src="@Model.URL/file=@Model.voiceOutput" controls> Some Error Occurred(maybe browser Unsupported) </audio>
+    }
+    else
+    {
+        
+        <h4>
+                CLICK THE BUTTON TO GENERATE AUDIO
+        </h4>
+        
+    }
+</div>

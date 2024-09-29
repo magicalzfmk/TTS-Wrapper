@@ -1,0 +1,18 @@
+﻿@page
+@model this_one_should_work.Pages.APIModel
+@{
+}
+@if (Model.hasData){
+    <h1>Output of API is:</h1>
+    <br>
+    <br>
+    <p>@Model.message</p>
+}
+@if(!Model.hasData){
+<div class="container">
+    <form method="POST">
+        <label for="message">Rest API for countries</label><br>
+        <input type="submit" value="Get Response">
+    </form>
+</div>
+}

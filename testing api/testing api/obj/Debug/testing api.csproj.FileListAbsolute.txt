@@ -1,0 +1,7 @@
+C:\Users\zfmk\source\repos\testing api\testing api\bin\Debug\testing api.exe.config
+C:\Users\zfmk\source\repos\testing api\testing api\bin\Debug\testing api.exe
+C:\Users\zfmk\source\repos\testing api\testing api\bin\Debug\testing api.pdb
+C:\Users\zfmk\source\repos\testing api\testing api\obj\Debug\testing api.csproj.AssemblyReference.cache
+C:\Users\zfmk\source\repos\testing api\testing api\obj\Debug\testing api.csproj.CoreCompileInputs.cache
+C:\Users\zfmk\source\repos\testing api\testing api\obj\Debug\testing api.exe
+C:\Users\zfmk\source\repos\testing api\testing api\obj\Debug\testing api.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6BZNjUfd9awGGtIhu5A+iNfGQkEz2Rs47fD86Eroa34xWxlkpKQT9NcdArHTeVOgTpmhOYtlcx0w8c0kHri3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zfmk\\source\\repos\\this one should work TTS_tortoise\\this one should work\\this one should work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zfmk\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

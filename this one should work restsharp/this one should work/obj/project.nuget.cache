@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0bk9LOThaODLQpKLyR0XRZUqUJO663cSvuL53THmwJD7AmY0hLxnmMDme+qMSBAB3Rwx1ty84oHu2AHqVn4KOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zfmk\\source\\repos\\this one should work restsharp\\this one should work\\this one should work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zfmk\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\zfmk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\zfmk\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\zfmk\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

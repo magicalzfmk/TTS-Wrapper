@@ -1,0 +1,67 @@
+C:\Users\zfmk\source\repos\this one should work\this one should work\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zfmk\source\repos\this one should work\this one should work\bin\Debug\net6.0\appsettings.json
+C:\Users\zfmk\source\repos\this one should work\this one should work\bin\Debug\net6.0\this one should work.staticwebassets.runtime.json
+C:\Users\zfmk\source\repos\this one should work\this one should work\bin\Debug\net6.0\this one should work.exe
+C:\Users\zfmk\source\repos\this one should work\this one should work\bin\Debug\net6.0\this one should work.deps.json
+C:\Users\zfmk\source\repos\this one should work\this one should work\bin\Debug\net6.0\this one should work.runtimeconfig.json
+C:\Users\zfmk\source\repos\this one should work\this one should work\bin\Debug\net6.0\this one should work.dll
+C:\Users\zfmk\source\repos\this one should work\this one should work\bin\Debug\net6.0\this one should work.pdb
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.csproj.AssemblyReference.cache
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.AssemblyInfoInputs.cache
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.AssemblyInfo.cs
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.csproj.CoreCompileInputs.cache
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.RazorAssemblyInfo.cache
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.RazorAssemblyInfo.cs
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\staticwebassets\msbuild.this one should work.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\staticwebassets\msbuild.build.this one should work.props
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.this one should work.props
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.this one should work.props
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\scopedcss\bundle\this one should work.styles.css
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\scopedcss\projectbundle\this one should work.bundle.scp.css
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.dll
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\refint\this one should work.dll
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.pdb
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\this one should work.genruntimeconfig.cache
+C:\Users\zfmk\source\repos\this one should work\this one should work\obj\Debug\net6.0\ref\this one should work.dll
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\appsettings.json
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\this one should work.staticwebassets.runtime.json
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\this one should work.exe
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\this one should work.deps.json
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\this one should work.runtimeconfig.json
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\this one should work.dll
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\this one should work.pdb
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\RestSharp.dll
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.csproj.AssemblyReference.cache
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.AssemblyInfoInputs.cache
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.AssemblyInfo.cs
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.csproj.CoreCompileInputs.cache
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.RazorAssemblyInfo.cache
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.RazorAssemblyInfo.cs
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\staticwebassets\msbuild.this one should work.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\staticwebassets\msbuild.build.this one should work.props
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.this one should work.props
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.this one should work.props
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\scopedcss\bundle\this one should work.styles.css
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\scopedcss\projectbundle\this one should work.bundle.scp.css
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.csproj.CopyComplete
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.dll
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\refint\this one should work.dll
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.pdb
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\this one should work.genruntimeconfig.cache
+C:\Users\zfmk\source\repos\this one should work restsharp\this one should work\obj\Debug\net6.0\ref\this one should work.dll
