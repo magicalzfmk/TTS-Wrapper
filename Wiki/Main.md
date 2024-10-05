@@ -12,20 +12,20 @@
 - Using the Project Repo: [REPO](https://git.ecker.tech/mrq/ai-voice-cloning)
 	- Note: Dont use the above repo in a project because of licencing issues
 - I downloaded the provided notebook to work in google collab.
-	- ![[Pasted image 20230825094440.png]]
+	- ![img1](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825094440.png?raw=true)
 - Link displayes a GUI with all the features:
-	- ![[Pasted image 20230825094800.png]]
+	- ![img2](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825094800.png?raw=true)
 - API endpoints are exposed as shown:
-	- ![[Pasted image 20230825095130.png]]
+	- ![img3](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825095130.png?raw=true)
 	- Another API for generation Exposed Below (if scrolled)
-	- ![[Pasted image 20230825095211.png]]
+	- ![img4](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825095211.png?raw=true)
 - Now i created a new WebApp using Visual Studio using .NET Core.
-	- EX: ![[Pasted image 20230825095341.png]]
+	- EX: ![img5](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825095341.png?raw=true)
 	- Code Attached.
 - The App creates a webpage: 
-	- ![[Pasted image 20230825095528.png]]
+	- ![img6](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825095528.png?raw=true)
 - API Page:
-	- ![[Pasted image 20230825095842.png]]
+	- ![img7](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825095842.png?raw=true)
 - Code attached. Notes are also in notes for easier understanding.
 
 ## Training Voice Models
@@ -34,19 +34,18 @@
 	- Note: Dont use the above repo in a project because of licencing issues
 - [Youtube](https://www.youtube.com/watch?v=6sTsqSQYIzs)
 - I downloaded the provided notebook to work in google collab.
-	- ![[Pasted image 20230825094440.png]]
+	- ![img1](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825094440.png?raw=true)
 - Click on Training Icon in GUI:
-	- ![[Pasted image 20230825100525.png]]
+	- ![img8](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825100525.png?raw=true)
 - Transcribe Dataset: (make sure to add voice samples in ai-voice-cloning/voices/Name/sample.wav.........)
-	- ![[Pasted image 20230825100851.png]]
+	- ![img9](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825100851.png?raw=true)
 - Generating config.:
-	- ![[Pasted image 20230825101314.png]]
+	- ![img10](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825101314.png?raw=true)
 - Train:
-	- ![[Pasted image 20230825101615.png]]
+	- ![img11](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825101615.png?raw=true)
 - Now change model to trained on in settings (autoregressive to trained) and generate voice( make sure to choose Voice name as trained one)
-	- ![[Pasted image 20230825101808.png]]
+	- ![img12](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825101808.png?raw=true)
 - USE THE TRAINED MODEL AS YOU WISH IN OTHER TORTOISE VERSIONS.
-	- IF YOU NEED THE TRAINED VOICES BY ME, **THEN INFORM ME AND I WILL GIVE DRIVE LINK**.
 
 ### Training RVC
 - Using Github REPO: [Repo](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
@@ -56,16 +55,16 @@
 - Format: .wav
 #### Steps
 - I created a google collab environment to run RVC, by creating a server.
-	- ![[Pasted image 20230825104721.png]]
+	- ![img13](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825104721.png?raw=true)
 	- This creates a GUI sharing server.
 - Public Gradio Link Opens a GUI for RVC:
-	- ![[Pasted image 20230825105027.png]]
+	- ![img14](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825105027.png?raw=true)
 - Go to training Tab:
-	- ![[Pasted image 20230825105313.png]]
+	- ![img15](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825105313.png?raw=true)
 - Start Training:
-	- ![[Pasted image 20230825105537.png]]
+	- ![img16](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825105537.png?raw=true)
 - Go back to model inference tab.
-	- ![[Pasted image 20230825105827.png]]
+	- ![img17](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825105827.png?raw=true)
 
 ## Tortoise-RVC Voices
 - Realistic Voices made using tortoise and later RVC.
@@ -74,4 +73,4 @@
 - Train Bark Model on Voice Sample
 - Train RVC on same Voice Samples
 - Do TTS Via Tortoise And Process Through RVC For Final Output
-- ![[Pasted image 20230825111846.png]]
+- ![img18](https://github.com/magicalzfmk/TTS-Wrapper/blob/main/Wiki/Images/Pasted%20image%2020230825111846.png?raw=true)
