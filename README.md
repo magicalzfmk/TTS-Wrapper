@@ -16,9 +16,10 @@ Set of Minor test projects mixed with Variations of main projects for testing mu
 ## Wiki
 [Wiki](/Wiki/Main.md)
 
-## Screenshots (Might add in Future)
+## Screenshots
+- Basic Frontend Example for the whole Service (See Wiki Above)
 
-[Banner]()
+![Banner](https://github.com/magicalzfmk/TTS-Wrapper/raw/main/Wiki/Images/Pasted%20image%2020230825095842.png?raw=true)
 
 ## Getting Started
 
