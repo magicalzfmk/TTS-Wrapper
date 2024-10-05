@@ -1,7 +1,7 @@
 # TTS Wrapper
 
 Set of Minor test projects mixed with Variations of main projects for testing multiple implementations of applying the tasks
-    
+
 ---  
 
 <img src="https://img.shields.io/github/stars/magicalzfmk/TTS-Wrapper?style=for-the-badge&logo=powerpages&color=cba6f7&logoColor=D9E0EE&labelColor=302D41"/>  
@@ -11,14 +11,18 @@ Set of Minor test projects mixed with Variations of main projects for testing mu
 ## Features
 - Majorly .NET Core
 - Random Minor Projects
-- this_one_should_work_<Variations> - Main Project variations
+- this_one_should_work_`<Variations>` - Main Project variations
+
+## Wiki
+[[Main]] 
 
 ## Screenshots (Might add in Future)
-![Banner]()
+
+[Banner]()
 
 ## Getting Started
 
-To get started with my dotFiles, simply download the source code and run as a flake.
+To get started with my dotFiles, simply download the source code
 
 ### Prerequisites
 
