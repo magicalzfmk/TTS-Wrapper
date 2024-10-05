@@ -14,7 +14,7 @@ Set of Minor test projects mixed with Variations of main projects for testing mu
 - this_one_should_work_`<Variations>` - Main Project variations
 
 ## Wiki
-[[Main]] 
+[Wiki](/Wiki/Main.md)
 
 ## Screenshots (Might add in Future)
 
